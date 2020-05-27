@@ -5,3 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+# for theme change
+theme/Butterfly

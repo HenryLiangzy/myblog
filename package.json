@@ -12,6 +12,7 @@
     "version": "4.2.1"
   },
   "dependencies": {
+    "@upupming/hexo-renderer-markdown-it-plus": "^2.0.2",
     "hexo": "^4.2.1",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
@@ -24,6 +25,7 @@
     "hexo-renderer-pug": "^1.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
-    "hexo-wordcount": "^6.0.1"
+    "hexo-wordcount": "^6.0.1",
+    "social-share.js": "^1.0.16"
   }
 }
